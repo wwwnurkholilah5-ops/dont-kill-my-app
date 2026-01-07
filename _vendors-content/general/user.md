@@ -1,4 +1,4 @@
----
+armanmaulana-
 manufacturer:
     - general
 ---
